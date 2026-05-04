@@ -8,10 +8,10 @@ image-processing-basics/
     ├── images/
     │   └── test.jpg     # 测试原图
     ├── results/
-    │   ├── gray.jpg     # 灰度处理结果
-    │   └── edges.jpg    # 边缘检测结果
+        │   ├── gray.jpg     # 灰度处理结果
+        │   └── edges.jpg    # 边缘检测结果
     ├── README.md        # 项目说明文档
-    └── requirements.txt # 项目依赖库
+    └── requirements.txt  # 项目依赖库
 '''
 
 ## 🛠️ 技术栈
