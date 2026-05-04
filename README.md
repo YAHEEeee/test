@@ -3,7 +3,7 @@
 ---
 
 ## 项目结构
-'''  
+``` 
 image-processing-basics/  
 ├── main.py    # 主程序，实现核心图像处理逻辑  
 ├── utils.py    # 工具函数（预留扩展）  
@@ -15,7 +15,7 @@ image-processing-basics/
 ├── README.md         # 项目说明文档  
 └── requirements.txt   # 项目依赖库  
 
-'''
+```
 
 ---
 
