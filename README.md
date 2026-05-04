@@ -1,5 +1,7 @@
 # 基于Python+OpenCV的图像处理基础项目
 
+---
+
 ## 项目结构
 '''
 image-processing-basics/  
@@ -13,6 +15,8 @@ image-processing-basics/
 ├── README.md        # 项目说明文档  
 └── requirements.txt # 项目依赖库  
 '''
+
+---
 
 ## 技术栈
 Python、OpenCV、Git
