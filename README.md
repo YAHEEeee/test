@@ -6,7 +6,7 @@ image-processing-basics/
     ├── main.py          # 主程序，实现核心图像处理逻辑
     ├── utils.py         # 工具函数（预留扩展）
     ├── images/
-    │   └── test.jpg     # 测试原图
+    │   ├── test.jpg     # 测试原图
     ├── results/
         │   ├── gray.jpg     # 灰度处理结果
         │   └── edges.jpg    # 边缘检测结果
