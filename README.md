@@ -1,6 +1,6 @@
 # 基于Python+OpenCV的图像处理基础项目
 
-## 📁 项目结构
+## 项目结构
 '''
 image-processing-basics/  
 ├── main.py          # 主程序，实现核心图像处理逻辑  
