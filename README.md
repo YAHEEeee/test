@@ -2,7 +2,7 @@
 
 ## 📁 项目结构
 '''
-image-processing-basics/
+image-processing-basics/  
 ├── main.py          # 主程序，实现核心图像处理逻辑  
 ├── utils.py         # 工具函数（预留扩展）  
 ├── images/  
