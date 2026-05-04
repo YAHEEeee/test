@@ -14,10 +14,10 @@ image-processing-basics/
 └── requirements.txt # 项目依赖库  
 '''
 
-## 🛠️ 技术栈
+技术栈
 Python、OpenCV、Git
 
-## 📌 项目功能
+项目功能
 1. 读取本地图片
 2. 彩色图转灰度图
 3. Canny边缘检测
