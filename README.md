@@ -14,16 +14,16 @@ image-processing-basics/
 └── requirements.txt # 项目依赖库  
 '''
 
-技术栈
+## 技术栈
 Python、OpenCV、Git
 
-项目功能
+## 项目功能
 1. 读取本地图片
 2. 彩色图转灰度图
 3. Canny边缘检测
 4. 自动保存处理后的图片
 
-## 🚀 运行方法
+## 运行方法
 1. 克隆仓库
 2. 安装依赖：`pip install -r requirements.txt`
 3. 运行：`python main.py`
